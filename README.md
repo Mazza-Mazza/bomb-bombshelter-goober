@@ -1,2 +1,3 @@
-# bomb-bombshelter-goober
-A classic spin on a beloved game.
+# BBG: Bomb, Bomb-Shelter, Goober
+
+Three choices, one chance. Will you survive?
